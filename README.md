@@ -2,7 +2,8 @@
 
 ### Framework: Flask
 
-*** Enter the any movie name in the search box
+*** Enter the any movie name in the search box.
+
 --> Machine Learning model will return a list of all movies which is similar(Recommended) to that movie....
 
 
